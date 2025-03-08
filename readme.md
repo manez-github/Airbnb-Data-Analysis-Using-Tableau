@@ -1,7 +1,7 @@
 # README
 
 ## Dashboard
-- ![Project Dashboard](https://github.com/manez-github/Data-Analysis-on-Data-Professional-Survey-Using-Power-BI/blob/main/Dashboard.png)  
+- ![Project Dashboard](https://github.com/manez-github/Airbnb-Data-Analysis-Using-Tableau/blob/main/Dashboard.png)  
   *This image shows the main dashboard of the Power BI project.*
 
 ## Project Overview
@@ -12,14 +12,12 @@
 - **Data Source:** 
   - The data used in this project is derived from a survey of real-time professionals currently working in the data industry.
 - **Methodology Overview:**
-  - Performed ETL (Extract, Transform, Load) operations in Power Query to clean and prepare survey data for effective analysis.
-  - Created a bar chart to visualize the popularity of different programming languages among data professionals, highlighting industry preferences.
-  - Utilized a treemap to show the distribution of survey respondents by country, providing insights into regional trends.
-  - Incorporated gauge charts to illustrate average salary satisfaction and work-life balance ratings, providing insights into job satisfaction metrics.
-  - Created a donut chart to compare average salaries between genders.
-  - Developed a bar chart to showcase average salaries across different job titles, revealing trends in compensation based on role.
-  - Included a card visualization displaying the count of survey participants and their average age, providing a quick
-    snapshot of the survey demographic.
+  - Joined two tables to integrate real estate data, ensuring a unified dataset for effective analysis.
+  - Created a geographic map to visualize average prices across different zip codes, highlighting regional price disparities.
+  - Developed a bar chart to showcase average prices for listings with varying numbers of bedrooms, revealing trends in property valuation based on size.
+  - Incorporated a line chart to illustrate revenue trends over the year, providing insights into seasonal fluctuations and overall market performance.
+  - Utilized a table to display the count of listings for each bedroom category, offering a clear view of market supply and demand dynamics.
+  - Created a bar chart to identify which postal codes yield the highest profit, providing insights into the most lucrative areas for investment.
 
 ## Installation
 - **Prerequisites:**
