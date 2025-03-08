@@ -2,7 +2,7 @@
 
 ## Dashboard
 - ![Project Dashboard](https://github.com/manez-github/Airbnb-Data-Analysis-Using-Tableau/blob/main/Dashboard.png)  
-  *This image shows the main dashboard of the Power BI project.*
+  *This image shows the main dashboard of the Tableau project.*
 
 ## Project Overview
 - **Project Name:** Airbnb Data Analysis
